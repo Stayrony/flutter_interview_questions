@@ -1,0 +1,19 @@
+# IDEs & editors
+.idea/
+.vscode/
+*.iml
+*.swp
+.DS_Store
+
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Coverage
+coverage/
